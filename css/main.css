@@ -6360,25 +6360,25 @@ header ul li a {
   color: #6f6d6d; }
 
 .img1 {
-  background-image: url(assets/img/1.png);
+  background-image: url(../img/1.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 365px; }
 
 .img2 {
-  background-image: url(assets/img/6.png);
+  background-image: url(../img/6.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 200px; }
 
 .img3 {
-  background-image: url(assets/img/10.png);
+  background-image: url(../img/10.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 150px; }
 
 .img4 {
-  background-image: url(assets/img/12.png);
+  background-image: url(../img/12.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 150px; }
